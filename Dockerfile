@@ -3,5 +3,5 @@
 # date: 2022, Dec. 8
 FROM jupyter/minimal-notebook
 
-RUN conda install pandas = 1.4.3 -y
+RUN conda install pandas=1.5.2 -y
 
