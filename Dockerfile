@@ -1,5 +1,5 @@
 # use jupyter/minimal-notebook as base image
-# Author: Austin Shih
+# author: Austin Shih
 # date: 2022, Dec. 8
 FROM jupyter/minimal-notebook
 
